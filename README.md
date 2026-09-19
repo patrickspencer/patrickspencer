@@ -1,7 +1,5 @@
 # Patrick Spencer
 
-Hi, I'm Patrick. I build small, self-hosted tools — mostly Go, Python, and Rust.
-
 ## Financial research
 
 - **[deep-diver](https://github.com/patrickspencer/deep-diver)** — An agent-powered research workbench for company filings: pulls 10-Ks, 10-Qs and 8-Ks from SEC EDGAR, renders them in a built-in viewer, and supports AI-assisted conversations about the content.
